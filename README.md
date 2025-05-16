@@ -1,10 +1,8 @@
 # 👋 Hi, I’m Redha
 
-🌿 I’m a computer engineer focused on embedded software and thoughtful tools.
+🌿 i’m a computer engineer focused on embedded software and fullstack.
 
-I like writing code that talks to hardware, handles real-time constraints, and makes things quietly work. Most of my work lives somewhere between low-level firmware and high-level functionality, from microcontrollers to UIs.
-
-
+I’m passionate about making embedded systems reliable and efficient, while also creating clean, user-friendly software. Whether it’s optimizing firmware or building web apps, I focus on writing thoughtful, maintainable code that solves real problems.
 
 ### 🧰 Languages and Tools
 
