@@ -4,6 +4,9 @@ i’m a computer engineer focused on embedded software and systems programming, 
 
 I like writing code that talks to hardware, handles real-time constraints, and makes things quietly work. Most of my work lives somewhere between low-level firmware and high-level functionality, from microcontrollers to UIs.
 
+
+![ZlXs](https://github.com/user-attachments/assets/81999b8c-5b3f-4ff6-97c2-099934e9466b)
+
 ---
 
 ### 🧰 Languages and Tools
@@ -38,10 +41,3 @@ I like writing code that talks to hardware, handles real-time constraints, and m
 ---
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/YOUR-LINK/)  
-📫 redhaalamedi@gmail.com
-
----
-
-<div align="center">
-  <![ZlXs](https://github.com/user-attachments/assets/3be8dbda-1865-46a8-87e3-dff287b1a281)/>
-</div>
