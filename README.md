@@ -4,11 +4,9 @@ i’m a computer engineer focused on embedded software and systems programming, 
 
 I like writing code that talks to hardware, handles real-time constraints, and makes things quietly work. Most of my work lives somewhere between low-level firmware and high-level functionality, from microcontrollers to UIs.
 
-
-<div align="center">
-  ![ZlXs](https://github.com/user-attachments/assets/bd935a39-ae69-4ccd-a7e9-45c7e4735fd4)
-</div>
-
+<br><br>
+<img src="![ZlXs](https://github.com/user-attachments/assets/bce53979-07b7-456c-9b63-0fd3b8ee266a)" height="40" />
+<br><br><br>
 
 ### 🧰 Languages and Tools
 
