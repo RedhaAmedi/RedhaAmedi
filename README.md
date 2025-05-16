@@ -36,7 +36,11 @@ I like writing code that talks to hardware, handles real-time constraints, and m
 - **Systems Mindset**: interrupt-driven design, memory constraints, debugging under pressure
 
 ---
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/eaaf5818-caac-46c4-93a3-d61481371864" width="200" alt="wolf gif" />
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/YOUR-LINK/)  
+  <img src="https://github.com/user-attachments/assets/eaaf5818-caac-46c4-93a3-d61481371864" width="300" alt="wolf gif" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/redhaalamedi/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn Badge" />
+  </a>
 </div>
