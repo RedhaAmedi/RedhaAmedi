@@ -6,7 +6,7 @@ I like writing code that talks to hardware, handles real-time constraints, and m
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a939584e-73ad-4b4c-91b3-8fc50bbca1cc" width="100" alt="wolf gif" />
+  <img src="https://github.com/user-attachments/assets/eaaf5818-caac-46c4-93a3-d61481371864" width="100" alt="wolf gif" />
 </div>
 
 ### 🧰 Languages and Tools
