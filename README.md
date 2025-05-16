@@ -38,6 +38,5 @@ I like writing code that talks to hardware, handles real-time constraints, and m
 ---
 <div align="center">
   <img src="https://github.com/user-attachments/assets/eaaf5818-caac-46c4-93a3-d61481371864" width="200" alt="wolf gif" />
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/YOUR-LINK/)  
 </div>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/YOUR-LINK/)  
