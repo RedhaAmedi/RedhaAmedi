@@ -6,8 +6,7 @@ I like writing code that talks to hardware, handles real-time constraints, and m
 
 
 <div align="center">
-  <img src="![ZlXs](https://github.com/user-attachments/assets/8f8877b1-d49d-4f25-926d-7a28cf9b2b16)
-" width="300" alt="wolf gif" />
+  ![ZlXs](https://github.com/user-attachments/assets/bd935a39-ae69-4ccd-a7e9-45c7e4735fd4)
 </div>
 
 
