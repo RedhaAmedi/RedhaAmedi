@@ -5,7 +5,9 @@ i’m a computer engineer focused on embedded software and systems programming, 
 I like writing code that talks to hardware, handles real-time constraints, and makes things quietly work. Most of my work lives somewhere between low-level firmware and high-level functionality, from microcontrollers to UIs.
 
 
-![3WUX](https://github.com/user-attachments/assets/a939584e-73ad-4b4c-91b3-8fc50bbca1cc)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a939584e-73ad-4b4c-91b3-8fc50bbca1cc" width="300" alt="wolf gif" />
+</div>
 
 ### 🧰 Languages and Tools
 
