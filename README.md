@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Redha
+# 🐺 Redha Amedi
 
 🌿 i’m a computer engineer focused on embedded software and fullstack.
 
