@@ -29,7 +29,7 @@ I’m passionate about making embedded systems reliable and efficient, while als
 - **Other Tools**: Git, VS Code, Logic Analyzers, 3D CAD, Blender  
 - **Systems Mindset**: interrupt-driven design, memory constraints, debugging under pressure
 
----
+#
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/eaaf5818-caac-46c4-93a3-d61481371864" width="300" alt="wolf gif" />
