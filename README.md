@@ -5,9 +5,6 @@ i’m a computer engineer focused on embedded software and systems programming, 
 I like writing code that talks to hardware, handles real-time constraints, and makes things quietly work. Most of my work lives somewhere between low-level firmware and high-level functionality, from microcontrollers to UIs.
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/eaaf5818-caac-46c4-93a3-d61481371864" width="100" alt="wolf gif" />
-</div>
 
 ### 🧰 Languages and Tools
 
@@ -39,5 +36,8 @@ I like writing code that talks to hardware, handles real-time constraints, and m
 - **Systems Mindset**: interrupt-driven design, memory constraints, debugging under pressure
 
 ---
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/eaaf5818-caac-46c4-93a3-d61481371864" width="200" alt="wolf gif" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/YOUR-LINK/)  
