@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Redha
 
-i’m a computer engineer focused on embedded software and systems programming, but I also enjoy crafting user-friendly interfaces when the mood strikes.
+🌿 I’m a computer engineer focused on embedded software and thoughtful tools.
 
 I like writing code that talks to hardware, handles real-time constraints, and makes things quietly work. Most of my work lives somewhere between low-level firmware and high-level functionality, from microcontrollers to UIs.
 
@@ -8,7 +8,7 @@ I like writing code that talks to hardware, handles real-time constraints, and m
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="left" alt="EmbeddedC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -25,7 +25,7 @@ I like writing code that talks to hardware, handles real-time constraints, and m
 
 ### 🛠 What I Work With
 
-- **Embedded Systems**: STM32, FreeRTOS, Debugging, Testing, peripherals (UART, SPI, I2C)  
+- **Embedded Systems**: MCU, FreeRTOS, Debugging, Testing, peripherals (UART, SPI, I2C)  
 - **Programming**: C, C++, Python, Java, JavaScript / TypeScript  
 - **Web Dev**: React, Node.js, REST APIs  
 - **Other Tools**: Git, VS Code, Logic Analyzers, 3D CAD, Blender  
