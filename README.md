@@ -43,5 +43,5 @@ I like writing code that talks to hardware, handles real-time constraints, and m
 ---
 
 <div align="center">
-  <![ZlXs](https://github.com/user-attachments/assets/3be8dbda-1865-46a8-87e3-dff287b1a281) height="40"/>
+  <![ZlXs](https://github.com/user-attachments/assets/3be8dbda-1865-46a8-87e3-dff287b1a281)/>
 </div>
